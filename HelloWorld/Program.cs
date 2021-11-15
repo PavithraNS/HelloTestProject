@@ -14,6 +14,7 @@ namespace HelloWorld
             Console.WriteLine("UC1-branch");
             Console.WriteLine("Developer2 changes");
             Console.WriteLine("Modified in local master branch");
+            Console.WriteLine("Modified in remote master branch");
         }
  
     }
